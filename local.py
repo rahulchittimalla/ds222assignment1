@@ -1,6 +1,6 @@
 import sys
 
-filename = "/scratch/ds222-2017/assignment-1/DBPedia.verysmall"
+filename = "/scratch/ds222-2017/assignment-1/DBPedia.verysmall/"
 
 
 data = []
